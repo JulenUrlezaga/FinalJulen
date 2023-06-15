@@ -9,6 +9,7 @@ import java.util.logging.Logger;
 
 
 import figuras.Poligono;
+import formato.Formatolog;
 
 public class Principal {
 	private static Scanner teclado = new Scanner(System.in);
@@ -24,11 +25,14 @@ public class Principal {
 			
 			String seguir = "n";// No seguir por defecto
 			
-            fileHandler  = new FileHandler("logs/actividad.log", true);
+            fileHandler  = new FileHandler("logs/actividad.log", true); 
+            
+            fileHandler.setFormatter(new Formatolog());
             
             LOGGER.setUseParentHandlers(false);
             
-             
+           
+
             LOGGER.addHandler(fileHandler);
             
             fileHandler.setLevel(Level.WARNING);
