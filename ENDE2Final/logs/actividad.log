@@ -50,3 +50,13 @@
 <!DOCTYPE log SYSTEM "logger.dtd">
 <log>
 </log>
+Principio LOG
+El mensaje que se guarda en el log es: El usuario ha intentado meter 0,1 o 2 como valor para los lados,en este caso: 2
+ Final LOG
+Principio LOG
+El mensaje que se guarda en el log es: El usuario ha intentado meter 0,1 o 2 como valor para los lados,en este caso: 1
+ Final LOG
+
+Principio LOG
+El mensaje que se guarda en el log es: El usuario ha intentado meter 0,1 o 2 como valor para los lados,en este caso: 1
+Final LOG
