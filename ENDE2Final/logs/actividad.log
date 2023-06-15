@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-06-15T17:39:09.259311900Z</date>
+  <millis>1686850749259</millis>
+  <nanos>311900</nanos>
+  <sequence>2</sequence>
+  <logger>programas.Principal</logger>
+  <level>WARNING</level>
+  <class>programas.Principal</class>
+  <method>obtenerPerimetroConLadosAltura</method>
+  <thread>1</thread>
+  <message>El usuario ha intentado meter 0,1 o 2 como valor para los lados,en este caso: </message>
+  <param>2</param>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-06-15T17:48:37.656419100Z</date>
+  <millis>1686851317656</millis>
+  <nanos>419100</nanos>
+  <sequence>2</sequence>
+  <logger>programas.Principal</logger>
+  <level>WARNING</level>
+  <class>programas.Principal</class>
+  <method>obtenerPerimetroConLadosAltura</method>
+  <thread>1</thread>
+  <message>El usuario ha intentado meter 0,1 o 2 como valor para los lados,en este caso: 2</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-06-15T17:57:30.851636300Z</date>
+  <millis>1686851850851</millis>
+  <nanos>636300</nanos>
+  <sequence>2</sequence>
+  <logger>programas.Principal</logger>
+  <level>WARNING</level>
+  <class>programas.Principal</class>
+  <method>obtenerPerimetroConLadosAltura</method>
+  <thread>1</thread>
+  <message>El usuario ha intentado meter 0,1 o 2 como valor para los lados,en este caso: 2</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
